@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import WebApp from '@twa-dev/sdk';
 
 function App() {
+    alert(WebApp.initData);
   return (
     <div className="App">
       <header className="App-header">

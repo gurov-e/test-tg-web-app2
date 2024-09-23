@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-tg-web-app2/static/css/main.f855e6bc.css",
+    "main.js": "/test-tg-web-app2/static/js/main.37c2c6cc.js",
+    "static/js/453.a92d77d4.chunk.js": "/test-tg-web-app2/static/js/453.a92d77d4.chunk.js",
+    "static/media/logo.svg": "/test-tg-web-app2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-tg-web-app2/index.html",
+    "main.f855e6bc.css.map": "/test-tg-web-app2/static/css/main.f855e6bc.css.map",
+    "main.37c2c6cc.js.map": "/test-tg-web-app2/static/js/main.37c2c6cc.js.map",
+    "453.a92d77d4.chunk.js.map": "/test-tg-web-app2/static/js/453.a92d77d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.37c2c6cc.js"
+  ]
+}
